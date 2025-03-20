@@ -1,6 +1,3 @@
 Mostra bene dai
-<<<<<<< HEAD
 b
-=======
 a
->>>>>>> 09c59447a47851c3e53d0395b4fc3867ff863c05
